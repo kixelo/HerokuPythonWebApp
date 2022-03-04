@@ -26,4 +26,5 @@ Flask
 App created according to the Udemy lesson by Ardit Sulce.
 ```
 ## App Images:
-<img src="images/herokuApp.png" />
+<img src="images/herokuApp.png" /> <br>
+<img src="geoApp2.PNG" />
