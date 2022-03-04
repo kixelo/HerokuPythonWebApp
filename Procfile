@@ -1,0 +1,1 @@
+web: gunicorn GeographyWebApp:app --log-file -
